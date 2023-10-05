@@ -5,7 +5,7 @@ This is a collection of solutions of the famous cses problem set which consists 
 |-----------------------|:-------------:|
 | Introductory Problems |     18/19     |
 | Sorting and Searching |     16/35     |
-| Dynamic Programming   |     0/19      |
+| Dynamic Programming   |     1/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
 | Tree Algorithms       |     0/16      |
