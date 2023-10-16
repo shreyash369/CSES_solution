@@ -14,6 +14,6 @@ This is a collection of solutions of the famous cses problem set which consists 
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24      |
 | Additional Problems   |     0/77      |
-| **Total**             |  **34/300**   |
+| **Total**             |  **44/300**   |
 
 Link to the Cses problem set - https://cses.fi/problemset/
